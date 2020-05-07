@@ -8,3 +8,4 @@ build
 *-lock.json
 uploads/*
 downloads
+logs
