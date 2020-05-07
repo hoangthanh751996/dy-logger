@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "dy-logger",
   "version": "1.0.0",
   "description": "[https://github.com/hoangthanh751996/dy-logger.git](https://github.com/hoangthanh751996/dy-logger.git)",
   "main": "index.js",
